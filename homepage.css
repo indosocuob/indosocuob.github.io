@@ -1,0 +1,50 @@
+.section1 {
+	background: url("../img/indosocfbcover.jpg");
+	background-size: cover;
+	min-height: 400px;
+	width: inherit;
+}
+
+.section2 {
+	/*height: 800px; 
+	width: 800px;*/ 
+	background: url("../img/movienight.jpeg");
+	background-size: cover;
+	min-height: 600px;
+	width: inherit;
+}
+
+.btn-primary {
+	background: #fefefe;
+	border-color: black;
+	border-width: thick;
+	text-decoration: none;
+	text-align: center;
+	color: initial;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus{
+	background: #cecece;
+	border-color: #302e2;
+	text-decoration-color: grey;
+}
+.section3 {
+	background-color: white;	
+} 
+.center{
+	display: block;
+	margin-right: 250px;
+	margin-left: 300px;
+	width: 50%;
+}
+.section4 {
+	background-color: #f2ebd5;
+	background-size: cover;
+	min-height: 75px;
+	width: inherit;
+}
+
+
+
